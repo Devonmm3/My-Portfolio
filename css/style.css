@@ -1,11 +1,11 @@
-{
+/* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+} */
 
 body {
-    background-image: url(../just-waves/just-waves.png);
+    background-image: url("../images/texturevintage.jpg");
     line-height: 150%;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
@@ -13,7 +13,7 @@ body {
 }
 
 .name {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: cursive;
     background-color: #4aaaa5;
     color: #eee;
     padding: 12px 10px;
@@ -23,7 +23,7 @@ body {
     float: left;
     left: 200px;
     top: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 75px;
     position: absolute;
 }
 
@@ -106,7 +106,8 @@ body {
 
     height: auto;
     width: 960px;
-    background-color: #ffffff;
+    background-color: white;
+    opacity: .90;
     padding-top: 2px;
     padding-left: 0px;
     padding-bottom: 5px;
@@ -116,6 +117,26 @@ body {
 }
 
 
+#email {
+    font-size: 28;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+#linkedin {
+    font-size: 28;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+#twitter {
+    font-size: 28;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30%;
+    margin-left: 10%;
+}
 
 #basicinfo {
     width: 960px;
