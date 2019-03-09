@@ -116,9 +116,39 @@ body {
   margin-left: 30%;
 }
 
+#TTM {
+  font-size: 28;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30%;
+}
+
+#BMZN {
+  font-size: 28;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30%;
+}
+
+#BG {
+  font-size: 28;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30%;
+}
+
 #HPT {
   font-size: 28;
   font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 30%;
+}
+
+#liri {
+  font-size: 28;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-left: 30%;
+}
+
+#GUESSGAME {
+  font-size: 28;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   margin-left: 30%;
 }
 #email {
