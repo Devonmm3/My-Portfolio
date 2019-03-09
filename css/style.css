@@ -104,9 +104,10 @@ body {
 }
 
 .code {
-  font-size: 24;
+  font-size: 20;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
+  margin-left: 33%;
 }
 
 .row {
