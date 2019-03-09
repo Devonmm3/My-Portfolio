@@ -103,7 +103,7 @@ body {
   border: 2px solid #ffffff;
 }
 
-#code {
+.code {
   font-size: 20;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   text-align: center;
